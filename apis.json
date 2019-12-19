@@ -1,0 +1,55 @@
+{
+    "name": "teech.io",
+    "description": "<p>Teech is a full stack edtech platform as a service. It makes it easy for developers to build educational applications for web, Android and iOS. We offer a suite of tools (data storage, APIs, SDKs) for developers interested in building educational applications, both complete LMSs and games. Developers can integrate in their apps typical edtech functionalities like, for example, grading systems and students performance analytics, reducing costs and time to market of their products.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/1997_logo.png",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/teech-io\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "teech.io",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/1997_logo.png",
+            "humanURL": "http:\/\/teech.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/teech-io-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/teech.io\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/teech.io\/feed\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/teech.io\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/teech"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/teech_io"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/teech.io\/"
+        }
+    ]
+}
